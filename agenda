@@ -1,0 +1,3 @@
+git remote add origin https://github.com/dutra2025/dutraRepository.git
+git branch -M main
+git push -u origin main
